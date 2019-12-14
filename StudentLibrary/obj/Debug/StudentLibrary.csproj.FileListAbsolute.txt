@@ -1,0 +1,6 @@
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\bin\Debug\StudentLibrary.dll
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\bin\Debug\StudentLibrary.pdb
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\obj\Debug\StudentLibrary.csprojAssemblyReference.cache
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\obj\Debug\StudentLibrary.csproj.CoreCompileInputs.cache
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\obj\Debug\StudentLibrary.dll
+c:\users\pashko andriy\source\repos\Class1\StudentLibrary\obj\Debug\StudentLibrary.pdb
