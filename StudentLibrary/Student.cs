@@ -34,6 +34,10 @@ namespace StudentLibrary
         {
             return Marks.Average(x => x.Rating);
         }
+        public void SaveJSON()
+        {
+
+        }
     }
     [Serializable]
     public class Mark
@@ -44,11 +48,6 @@ namespace StudentLibrary
         public override string ToString()
         {
             return $"{Subject} -------- {Rating}";
-        }
-        public Mark()
-        {
-            Rating = 0;
-            Subject = null;
         }
     }
 }//dopeek reflector

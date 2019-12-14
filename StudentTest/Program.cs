@@ -36,6 +36,7 @@ namespace StudentTest
             }
             service.Save();
             service.Best();
+            service.SaveJSON();
         }
     }
 }

@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
+using Newtonsoft.Json;
 
 namespace StudentLibrary
 {
@@ -47,6 +48,11 @@ namespace StudentLibrary
                 BinaryFormatter bf = new BinaryFormatter();
                 bf.Serialize(fs, Students);
             }
+        }
+        public void SaveJSON()
+        {
+            string json = JsonConvert.SerializeObject(Students,Formatting.Indented);
+            File.WriteAllText("Stud.json", json);
         }
         private void Load()
         {

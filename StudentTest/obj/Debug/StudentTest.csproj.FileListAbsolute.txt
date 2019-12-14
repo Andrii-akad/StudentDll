@@ -8,3 +8,5 @@ c:\users\pashko andriy\source\repos\Class1\StudentTest\bin\Debug\StudentLibrary.
 c:\users\pashko andriy\source\repos\Class1\StudentTest\obj\Debug\StudentTest.csproj.CopyComplete
 c:\users\pashko andriy\source\repos\Class1\StudentTest\obj\Debug\StudentTest.exe
 c:\users\pashko andriy\source\repos\Class1\StudentTest\obj\Debug\StudentTest.pdb
+c:\users\pashko andriy\source\repos\Class1\StudentTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\pashko andriy\source\repos\Class1\StudentTest\bin\Debug\Newtonsoft.Json.xml
